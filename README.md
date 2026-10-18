@@ -20,4 +20,4 @@ Estación meteorológica IoT con ESP32 y sensor BMP280. Mide temperatura, presi�
 Nodo `/Weather` con las claves `Temperatura` (°C), `Presion` (mmHg) y `Altitud` (m).
 
 ## Autor
-AlexAmaya19
+kyaretzi
